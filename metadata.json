@@ -1,0 +1,5 @@
+{
+  "name": "CRAZY CARBS",
+  "description": "A simple application to log your daily food intake, including amounts and calories, for each day of the week. Track your nutrition easily across breakfast, lunch, dinner, and snacks.",
+  "requestFramePermissions": []
+}
